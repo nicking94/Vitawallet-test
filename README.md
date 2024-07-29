@@ -1,21 +1,13 @@
 # Vita Wallet frontend test
 
-## Descripción del Proyecto
-
-Este es un proyecto de ejemplo que utiliza **React**, **Vite** y **TailwindCSS**.
+### Este es un proyecto de ejemplo que utiliza **React**, **Vite** y **TailwindCSS**.
 
 ### Funcionalidades
 
 - **Página de Login**: Permite a los usuarios autenticarse de manera segura.
 - **Página de Inicio**: Muestra el balance actual y el historial de transacciones.
-- **Página de Perfil**: Muestra la información del usuario y permite editarla.
+- **Página de Perfil**: Muestra la información del usuario.
 - **Página de Intercambios**: Facilita el intercambio de criptomonedas.
-
-### Tecnologías Utilizadas
-
-- **React**
-- **Vite**
-- **TailwindCSS**
 
 ### Instalación
 
@@ -23,7 +15,7 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/nicking94/Vitawallet-test
    ```
 2. Instala las dependencias:
    ```bash
@@ -35,10 +27,11 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
    npm run dev
    ```
 
-### Capturas de Pantalla
+### Link al demo
 
-**Página de Login**
-![Login](assets/screenshots/login.png)
+https://vitawallet.netlify.app/
 
-**Página de Inicio**
-![Inicio](assets/screenshots/home.png)
+### Credenciales de acceso
+
+- **Email**: prospecto@vitawallet.io
+- **Contraseña**: Vita.1212
